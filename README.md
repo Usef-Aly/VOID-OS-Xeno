@@ -1,7 +1,6 @@
 # VOID-OS: Xeno
 ---
 <img width="1056" height="1024" alt="VOID-OS-Xeno" src="https://github.com/user-attachments/assets/67b9fce0-5dbb-4edf-9aff-6f0ec16415a4" />
----
 
 **Project:** VOID-OS: Xeno  
 **Role:** Full Stack Architect & Lead Developer  
